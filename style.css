@@ -13,7 +13,7 @@ a {
 }
 h1 {
     text-align: center;
-    color: green;
+    color: rgb(151, 157, 247);
     font-size: 300%;
 }
 
@@ -23,7 +23,7 @@ h1 {
 div {
     border: 1px solid black;
     margin: 50px 50px 75px 100px;
-    background-color: #add8e6;
+    background-color: #00eeff;
 }
 
 div p {
@@ -39,6 +39,6 @@ body
 	color: #0000ff
 	background-image: url(https://img1.southernliving.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/2017/10/main/christmas-tree-near-fireplace_0.jpg") no-repeat bottom right; 
     backgound-color: #cccccc
-    margin: 0; 
-	padding: 0;
+    margin: 25; 
+	padding: 25;
 	}
